@@ -1,0 +1,35 @@
+@import url("https://cdn-uicons.flaticon.com/2.1.0/uicons-regular-rounded/css/uicons-regular-rounded.css");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap");
+
+body {
+  font-family: "Inconsolata", monospace;
+  font-size: larger;
+  background: #181818;
+  background-image: url("./images/low-poly-grid-haikei.svg");
+  background-size: 100%;
+  color: #ffffff;
+  justify-content: center;
+  display: flex;
+}
+
+.link {
+  color: #ffffff8e;
+}
+
+.link:hover {
+  color: #b8b8b8;
+}
+
+#main {
+  margin-top: 3%;
+}
+
+#sections {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-size: smaller;
+}
+
+#title {
+  font-style: italic;
+}
